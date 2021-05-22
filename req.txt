@@ -1,0 +1,10 @@
+There is an existing C++ project that tries to generate a sequence of numbers & letters starting at 01 and adding +1 every second 
+and finishing at FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEBAAEDCE6AF48A03BBFD25E8CD0364140
+
+I want the application to be modified to add the following options
+- Option to generate randomly instead of sequentially
+- Option to choose the max number of sequence generated e.g. 5 lines max (e.g. FGSJD) or 10 lines max (FGSHSKDJFG) etc.
+
+This is the github project of the C++ that i want modified: https://github.com/brichard19/BitCrack
+
+and attached is a video showing how it currently works.
